@@ -8,3 +8,4 @@
 #
 #
 Team.create([{name: "TI"}, {name: "Suporte"}, {name: "Financeiro"} ])
+JobTitle.create([ {name: "Desenvolvedor back-endimpr"}, {name: "Desenvolvedor front-end"}, {name: "Encantador de clientes"} ])
