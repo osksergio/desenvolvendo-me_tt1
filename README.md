@@ -15,12 +15,12 @@ Questões e problemas do teste técnoco / soluções implementadas:
 
 **1** - Faça uma função que receba uma string e retorne verdadeiro caso ela seja palíndromo, do contrário ela deve retornar falso. (palíndromos são palavras ou frases que podem ser lidas da esquerda para a direita ou da direita para a esquerda)
 
-[Solução]( )
+[Solução]( https://github.com/osksergio/desenvolvendo-me_tt1/blob/main/app/business/palindrome.rb )
 
 
 **2** - Faça uma função que receba uma string contendo um CPF e verifique se ele está formatado de acordo com a máscara 999.999.999-99. A função deve usar regex para fazer a validação da máscara e deve retornar verdadeiro ou falso.
 
-[Solução]( )
+[Solução]( https://github.com/osksergio/desenvolvendo-me_tt1/blob/main/app/business/document_format.rb )
 
 
 **3** - Implemente uma função para calcular o fatorial de números arbitrariamente grandes, sem utilizar recursividade.
@@ -29,7 +29,7 @@ Regras
 ● n = 0 deve retornar 1
 ● n > 0 deve retornar n!
 
-[Solução](http://www.google.com.br)
+[Solução]( https://github.com/osksergio/desenvolvendo-me_tt1/blob/main/app/business/factorial.rb )
 
 
 **4** - A partir das tabelas do banco de dados abaixo, escreva uma query sql que através de join, retorne o nome completo, cpf, equipe e cargo dos colaboradores ordenando os por cpf.
