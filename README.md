@@ -59,28 +59,28 @@ Tabela: job_titles
 | 2 | Desenvolvedor front-end |
 | 3 | Encantador de clientes |
 
-[Solução]( )
+[Solução]( https://github.com/osksergio/desenvolvendo-me_tt1/issues/10#issue-1381660665 )
 
 **5** - Usando as tabelas do banco de dados do exercício anterior, escreva as classes das models Employee, Team e JobTitle, declare as associações das models e escreva a mesma query com a sintaxe do ActiveRecord.
 
-[Solução]( )
+[Solução]( https://github.com/osksergio/desenvolvendo-me_tt1/issues/11#issue-1381660702 )
 
 
 **6** - Descreva o que faz o seguinte comando e por que ele é amplamente utilizado: a ||= b
 
-[Solução]( )
+[Solução]( https://github.com/osksergio/desenvolvendo-me_tt1/issues/12#issuecomment-1262002532 )
 
 
 **7** - Qual a principal diferença entre estes dois métodos?
 
-[Solução]( )
+[Solução]( https://github.com/osksergio/desenvolvendo-me_tt1/issues/13#issuecomment-1261985998 )
 
 
 **8** - Qual o significado do self nas classes ruby?
 
-[Solução]( )
+[Solução]( https://github.com/osksergio/desenvolvendo-me_tt1/issues/14#issuecomment-1261979240 )
 
 
 **9** -  Quais as vantagens e desvantagens do ruby ser uma linguagem dinamicamente tipada?
 
-[Solução]( )
+[Solução]( https://github.com/osksergio/desenvolvendo-me_tt1/issues/15#issuecomment-1261998223 )
