@@ -1,6 +1,6 @@
-VALID_CPF_REGEX = /^\d{3}\.\d{3}\.\d{3}\-\d{2}$/
-
 class DocumentFormat
+  VALID_CPF_REGEX = /^\d{3}\.\d{3}\.\d{3}\-\d{2}$/
+
   def initialize(document)
     @document = document
   end
